@@ -16,7 +16,6 @@ export default defineNuxtConfig({
     'nuxt-og-image',
     'nuxt-link-checker',
     'nuxt-schema-org',
-    // utility modules
     "nuxt-typed-router"
   ]
 })
