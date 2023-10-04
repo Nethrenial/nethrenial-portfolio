@@ -1,0 +1,33 @@
+{
+  "name": "nethrenial-portfolio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/content": "latest",
+    "@nuxt/devtools": "latest",
+    "@nuxt/image-edge": "latest",
+    "@nuxtjs/fontaine": "latest",
+    "@nuxtjs/google-fonts": "latest",
+    "@nuxtjs/html-validator": "latest",
+    "nuxt": "^3.7.4",
+    "nuxt-capo": "latest",
+    "nuxt-csurf": "latest",
+    "nuxt-icon": "latest",
+    "nuxt-link-checker": "^2.1.9",
+    "nuxt-og-image": "^2.1.1",
+    "nuxt-schema-org": "^3.0.1",
+    "nuxt-seo-kit": "latest",
+    "nuxt-simple-robots": "^3.1.6",
+    "nuxt-simple-sitemap": "^3.3.5",
+    "nuxt-typed-router": "latest",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.5"
+  }
+}
