@@ -1,0 +1,1 @@
+import{k as t,c as a,a2 as s,e as o,b as r}from"./entry.338feaa2.js";const c={},n=o("h1",null,"Header",-1);function l(e,d){return r(),a("div",null,[n,s(e.$slots,"default")])}const f=t(c,[["render",l]]);export{f as default};
