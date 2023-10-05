@@ -1,0 +1,1 @@
+import{_ as t,c as a,R as o,a as s,o as r}from"./entry.6f228526.js";const c={},n=s("h1",null,"Header",-1);function l(e,_){return r(),a("div",null,[n,o(e.$slots,"default")])}const f=t(c,[["render",l]]);export{f as default};
