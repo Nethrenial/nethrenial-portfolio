@@ -13,6 +13,7 @@
     "@nuxt/content": "latest",
     "@nuxt/devtools": "latest",
     "@nuxt/image-edge": "latest",
+    "@nuxthq/studio": "^1.0.0",
     "@nuxtjs/fontaine": "latest",
     "@nuxtjs/google-fonts": "latest",
     "@nuxtjs/html-validator": "latest",

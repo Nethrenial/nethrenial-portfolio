@@ -4,6 +4,7 @@ export default defineNuxtConfig({
   modules: [
     "nuxt-capo",
     "@nuxt/content",
+    '@nuxthq/studio',
     "nuxt-csurf",
     "@nuxtjs/fontaine",
     "@nuxtjs/google-fonts",
