@@ -22,7 +22,7 @@
     "nuxt-csurf": "latest",
     "nuxt-icon": "latest",
     "nuxt-link-checker": "^2.1.9",
-    "nuxt-og-image": "^2.1.1",
+    "nuxt-og-image": "^5.0.0",
     "nuxt-schema-org": "^3.0.1",
     "nuxt-seo-kit": "latest",
     "nuxt-simple-robots": "^3.1.6",
