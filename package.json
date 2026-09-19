@@ -21,7 +21,7 @@
     "nuxt-capo": "latest",
     "nuxt-csurf": "latest",
     "nuxt-icon": "latest",
-    "nuxt-link-checker": "^2.1.9",
+    "nuxt-link-checker": "^5.0.0",
     "nuxt-og-image": "^2.1.1",
     "nuxt-schema-org": "^3.0.1",
     "nuxt-seo-kit": "latest",
